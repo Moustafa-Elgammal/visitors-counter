@@ -9,7 +9,7 @@
             "email": "moustafa@elgammal.me"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "beta",
     "require": {
         "php": ">=5.3.0"
     },
